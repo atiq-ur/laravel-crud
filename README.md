@@ -12,6 +12,4 @@ Configure your env file with database credentials. Then do following steps to us
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
-
 
